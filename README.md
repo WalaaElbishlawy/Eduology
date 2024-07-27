@@ -7,11 +7,16 @@ Eduology is a learning management system developed using Asp.NET Core.
 
 ### Student
 
-•	Login: can log in to access their account. 
+•	Login: can log in to access their account.
+
 •	View Profile: User can view their profile information.
+
 •	Enroll in Courses: can enroll from available courses.
+
 •	View All Courses: can see a page listing all the courses they are enrolled in.
+
 •	View Course Content: can access course materials such as lecture, presentations, and other resources.
+
 •	Submit Assignments: Students Submit assignment answers within specified deadlines.
 
 ### Instructors / Teaching Assistants (TAs)
